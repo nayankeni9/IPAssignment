@@ -1,0 +1,2 @@
+cd C:\MongoDb\bin
+mongod.exe --dbpath F:\IPAssignment\mongo-data
